@@ -1,0 +1,19 @@
+wie,spät|wie,viel,uhr:>time
+ausschalten|runterfahren:>shutdown
+neustarten:>restart
+was,ist:>wiki was_ist
+definiere:>wiki definiere
+was,sind:>wiki was_sind
+wie,funktioniert:>wiki wie_funktioniert
+wie,funktionieren:>wiki wie_funktionieren
+wer,war:>wiki wer_war
+wer,ist:>wiki wer_ist
+wer,waren:>wiki wer_waren
+wer,sind:>wiki wer_sind
+wetter,aktuell|wetter,mommentan:>weather today
+wetter,morgen:>weather tomorrow
+wer,du|wie,heisst,du|wie,dein,name:Ich bin Dschahrvis, ein intelligentes, tragbares Computersystem.
+hallo|hey|hi:Hallo, stets zu diensten.
+kannst,du:Ich bin mir nicht sicher. Villeicht kannst du es mir ja beibringen.
+du,bist:Gut möglich.|Das kann sein.|Ja, villeicht.
+lach,mal:Hahahahaha, das war lustig.
